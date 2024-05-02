@@ -1,4 +1,4 @@
-# DOCKER-ALPIN
+# DOCKER-ALPINE
 
 Este proyecto es un servidor Nginx básico usando Docker y Nginx.
 
