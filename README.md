@@ -2,6 +2,9 @@
 
 Este proyecto es un servidor Nginx básico usando Docker y Nginx.
 
+## Descarga de la imagen
+Descarga: https://grupstucom-my.sharepoint.com/personal/cf2022336_365_stucom_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcf2022336%5F365%5Fstucom%5Fcom%2FDocuments%2Fdockerfile2%2Erar&parent=%2Fpersonal%2Fcf2022336%5F365%5Fstucom%5Fcom%2FDocuments&ga=1
+
 ## Requisitos
 
 - Necesitas tener un docker instalado en tu máquina. Descargalo aqui [Docker](https://www.docker.com/get-started) con guías de instalación.
